@@ -1,3 +1,5 @@
+![Front-end-React_ escrevendo com Typescript](https://github.com/user-attachments/assets/c9b0f623-2941-4c77-81e1-aa3a2b798f17)
+
 # Alura-Studies
 
 ## Um gerenciador de tarefas simples e intuitivo.
