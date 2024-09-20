@@ -29,7 +29,7 @@ Este projeto foi iniciado utilizando o Create React App, uma ferramenta de linha
 
 **Para começar a usar o projeto:**
 
-1. **Clone o repositório:** `git clone https://github.com/seu-usuario/alura-studies.git`
+1. **Clone o repositório:** `git clone https://github.com/NetoRusso/alura-studies.git`
 2. **Instale as dependências:** `npm install`
 3. **Execute o projeto:** `npm start`
 
